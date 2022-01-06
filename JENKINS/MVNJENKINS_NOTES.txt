@@ -133,6 +133,8 @@ Audit log file will be available with name as ==> jenkinsAudit.log.0
 EMAIL NOTIFICATION
 
 *********************
+**USING DEFAULT EMAIL NOTIFICATION
+
 
 --> Manage Jenkins--> Extended Email Notifications
 Give:
