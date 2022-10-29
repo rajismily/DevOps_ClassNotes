@@ -38,7 +38,7 @@ and copy these commands
     
     sudo amazon-linux-extras install epel
 
-  yum install jenkins
+  yum install jenkins -y
   
  # systemctl start jenkins
  # systemctl status jenkins
