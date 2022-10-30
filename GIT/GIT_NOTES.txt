@@ -43,7 +43,7 @@ What is GIT?
 - Distributed version Control System
 - Tool that tracks changes in your code/files over time.
 - Working Directory, Stagging area, local repository and remote repository
-- GIT stores the data in sanpshots that is the reson that its performance is very fast and it can store huge amount of data.
+- GIT stores the data in snapshots that is the reson that its performance is very fast and it can store huge amount of data.
 
 What is GIT hub?
 
